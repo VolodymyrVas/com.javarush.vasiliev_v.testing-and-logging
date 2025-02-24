@@ -10,10 +10,6 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         logger.info("Приложение запущено");
-//        logger.debug("Отладочная информация");
-//        logger.error("Ошибка произошла!");
-
-
 
         List<Horse> horses = List.of(
                 new Horse("Bucephalus", 2.4),
