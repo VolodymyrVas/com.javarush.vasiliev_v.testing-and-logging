@@ -1,0 +1,12 @@
+[2025-02-24 17:23:54] INFO  - Приложение запущено
+[2025-02-24 17:23:54] INFO  - Начало скачек. Количество участников: 7
+[2025-02-24 17:24:15] INFO  - Скачки завершены. Победитель: Pegasus
+[2025-02-24 17:26:32] INFO  - Приложение запущено
+[2025-02-24 17:26:32] ERROR - Hippodrome: Horses list is empty. Throwing IllegalArgumentException
+java.lang.IllegalArgumentException: Horses cannot be empty.
+	at Hippodrome.<init>(Hippodrome.java:19)
+	at Main.main(Main.java:24)
+[2025-02-24 19:03:34] INFO  - Приложение запущено
+[2025-02-24 19:03:34] DEBUG - Hippodrome: Создание Hippodrome, лошадей [7]
+[2025-02-24 19:03:34] INFO  - Начало скачек. Количество участников: 7
+[2025-02-24 19:03:54] INFO  - Скачки завершены. Победитель: Pegasus
